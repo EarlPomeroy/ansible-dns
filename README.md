@@ -1,13 +1,10 @@
-# Ansible automation for home lab
+# Ansible automation for DNS and DHCP in home lab
 
-This controls the RP3/4 setup for host services:
+This controls the server setup for host services:
 
 - DNS
 - DHCP
-- Jenkins
-- K3S setup
-- Updates
 
 ## Status
 
-![Validation](https://github.com/EarlPomeroy/home-network-ansible/actions/workflows/lint.yml/badge.svg)
+![Validation](https://github.com/EarlPomeroy/ansible-dns/actions/workflows/lint.yml/badge.svg)
