@@ -26,9 +26,9 @@ rp3-twr2        IN      A       192.168.42.31
 rp3-twr3        IN      A       192.168.42.32
 rp3-twr4        IN      A       192.168.42.33
 rp3-twr5        IN      A       192.168.42.34
-ctrl1-rp4       IN      A       192.168.42.40
-ctrl2-rp3       IN      A       192.168.42.41
-ctrl3-rp3       IN      A       192.168.42.42
+rp4-ctrl1       IN      A       192.168.42.40
+rp3-ctrl2       IN      A       192.168.42.41
+rp3-ctrl3       IN      A       192.168.42.42
 rp4-rack1       IN      A       192.168.42.50
 rp4-rack2       IN      A       192.168.42.51
 rp4-rack3       IN      A       192.168.42.52
