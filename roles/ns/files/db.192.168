@@ -28,8 +28,8 @@ $TTL 604800     ; 1 week
 33              IN      PTR     rp3-twr4.home.lan.
 34              IN      PTR     rp3-twr5.home.lan.
 40              IN      PTR     rp4-ctrl1.home.lan.
-41              IN      PTR     rp3-ctrl2.home.lan.
-42              IN      PTR     rp3-ctrl3.home.lan.
+41              IN      PTR     rp4-ctrl2.home.lan.
+42              IN      PTR     rp4-ctrl3.home.lan.
 50              IN      PTR     rp4-rack1.home.lan.
 51              IN      PTR     rp4-rack2.home.lan.
 52              IN      PTR     rp4-rack3.home.lan.
