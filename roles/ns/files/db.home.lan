@@ -35,7 +35,9 @@ rp4-rack3       IN      A       192.168.42.52
 rp4-rack4       IN      A       192.168.42.53
 rp4-rack5       IN      A       192.168.42.54
 rp4-rack6       IN      A       192.168.42.55
-switch          IN      A       192.168.42.250
+switch1         IN      A       192.168.42.250
+switch2         IN      A       192.168.42.251
+switch3         IN      A       192.168.42.252
 
 $ORIGIN home.lan.
 $TTL 3600       ; 1 hour

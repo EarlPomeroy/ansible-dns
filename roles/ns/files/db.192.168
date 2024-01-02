@@ -36,7 +36,9 @@ $TTL 604800     ; 1 week
 53              IN      PTR     rp4-rack4.home.lan.
 54              IN      PTR     rp4-rack5.home.lan.
 55              IN      PTR     rp4-rack6.home.lan.
-250             IN      PTR     switch.home.lan.
+250             IN      PTR     switch1.home.lan.
+251             IN      PTR     switch2.home.lan.
+252             IN      PTR     switch3.home.lan.
 
 $ORIGIN 40.168.192.in-addr.arpa.
 $TTL 3600       ; 1 hour
